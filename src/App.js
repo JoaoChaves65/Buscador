@@ -17,7 +17,7 @@ function App() {
         </button>
       </div>
 
-      <main className="main'">
+      <main className="main">
         <h2>CEP: 79003222</h2>
 
         <span>Rua teste algum</span>
